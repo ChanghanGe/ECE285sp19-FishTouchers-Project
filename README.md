@@ -5,10 +5,10 @@
 ## Description
 This is project Style Transfer developed by team FishTouchers composed of
 <ul>
-  <li><strong>Changhan Ge</strong><\li>
-  <li><strong>Yifan Huang</strong><\li>
-  <li><strong>Song Wang</strong><\li>
-  <li><strong>Jingqi Huang</strong><\li>
+  <li><strong>Changhan Ge</strong>A53264280</li>
+  <li><strong>Yifan Huang</strong>A53272363</li>
+  <li><strong>Song Wang</strong>A53275641</li>
+  <li><strong>Jingqi Huang</strong>A53281935</li>
 <\ul>
 
 ## Requirements
