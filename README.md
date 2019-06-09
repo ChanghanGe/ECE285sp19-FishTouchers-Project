@@ -1,6 +1,6 @@
 # ECE285sp19-FishTouchers-Project
 
-![](frog_scream.gif){:height="50%" width="50%"}
+![](frog_scream.gif)
 
 ## Description
 This is project Style Transfer developed by team FishTouchers composed of <strong>Changhan Ge</strong>, <strong>Yifan Huang</strong>, <strong>Song Wang</strong>, and <strong>Jingqi Huang</strong>
@@ -12,4 +12,4 @@ Install packages as follow:
 demo.ipynb                        --  Run a demo on a trained transformation network (You can change the 'style' or 'content' strings in the code to vary the content/style images) <br />
 Part_A_NeuralStyleTransfer.ipynb  --    <br />
 Part_B_RealTimeTransfer.ipynb     --    <br />
-trans_net.py                      --    <br />
+trans_net.py                      --  Define the transformation network architecture. <br />
