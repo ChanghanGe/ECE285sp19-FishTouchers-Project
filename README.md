@@ -3,7 +3,13 @@
 ![](frog_scream.gif)
 
 ## Description
-This is project Style Transfer developed by team FishTouchers composed of <strong>Changhan Ge</strong>, <strong>Yifan Huang</strong>, <strong>Song Wang</strong>, and <strong>Jingqi Huang</strong>
+This is project Style Transfer developed by team FishTouchers composed of
+<ul>
+  <li><strong>Changhan Ge</strong><\li>
+  <li><strong>Yifan Huang</strong><\li>
+  <li><strong>Song Wang</strong><\li>
+  <li><strong>Jingqi Huang</strong><\li>
+<\ul>
 
 ## Requirements
 Install packages as follow:
