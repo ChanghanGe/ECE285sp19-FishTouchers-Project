@@ -12,7 +12,7 @@ This is project Style Transfer developed by team FishTouchers composed of
 </ul>
 
 ## Requirements
-Install packages as follow:
+Install packages as follow: torch, torchvision, PIL, collections, pylab, Matplotlib, opencv-python
 
 ## Code organzation
 ### Codes
