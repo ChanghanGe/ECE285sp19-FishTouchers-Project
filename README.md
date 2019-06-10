@@ -22,7 +22,7 @@ Part_A_NeuralStyleTransfer.ipynb  --  Gytes' style transfer network training pro
 Part_B_RealTimeTransfer.ipynb     --  Feifei's real-time style transfer network training program.<br />
 trans_net.py                      --  Define the transformation network architecture. <br />
 vgg.py                        --  Define the loss network architecture for the Part_A_NeuralStyleTransfer.ipynb. <br />
-video_style_transfer_demo.ipynb--
+
 ### Files
 <strong>Demo-frog-3.mp4</strong>  --  <strong>Style transferred video mentioned in report Sec.4.5.</strong><br />
 Models                            --  A collection of trained transformation networks.<br />
