@@ -23,7 +23,6 @@ trans_net.py                      --  Define the transformation network architec
 vgg_net.py                        --  Define the loss network architecture for the Part_A_NeuralStyleTransfer.ipynb. <br />
 
 ### Files
-<strong>Demo-frog-3.mp4</strong>  --  <strong>Style transferred video.</strong><br />
+<strong>Demo-frog-3.mp4</strong>  --  <strong>Style transferred video mentioned in report Sec.4.5.</strong><br />
 Models                            --  A collection of trained transformation networks.<br />
 images                            --  A collection of style/content images. The style images correspond to the trained networks in Models. You can choose different content images in demo.ipynb to check the transferred result.<br />
-
