@@ -17,7 +17,7 @@ Install packages as follow: torch, torchvision, PIL, collections, pylab, Matplot
 ## Code organzation
 ### Codes
 demo.ipynb                        --  Run a demo on a trained transformation network (You can change the 'style' or 'content' strings in the code to vary the content/style images) <br />
-video_style_transfer_demo.ipynb-- Run a demo on real-time video style transfer network
+video_style_transfer_demo.ipynb-- Run a demo on real-time video style transfer network. <br />
 Part_A_NeuralStyleTransfer.ipynb  --  Gytes' style transfer network training program.<br />
 Part_B_RealTimeTransfer.ipynb     --  Feifei's real-time style transfer network training program.<br />
 trans_net.py                      --  Define the transformation network architecture. <br />
