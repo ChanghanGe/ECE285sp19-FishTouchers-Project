@@ -20,7 +20,7 @@ demo.ipynb                        --  Run a demo on a trained transformation net
 Part_A_NeuralStyleTransfer.ipynb  --  Gytes' style transfer network training program.<br />
 Part_B_RealTimeTransfer.ipynb     --  Feifei's real-time style transfer network training program.<br />
 trans_net.py                      --  Define the transformation network architecture. <br />
-vgg_net.py                        --  Define the loss network architecture for the Part_A_NeuralStyleTransfer.ipynb. <br />
+vgg.py                        --  Define the loss network architecture for the Part_A_NeuralStyleTransfer.ipynb. <br />
 
 ### Files
 <strong>Demo-frog-3.mp4</strong>  --  <strong>Style transferred video mentioned in report Sec.4.5.</strong><br />
