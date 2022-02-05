@@ -6,8 +6,8 @@
 This is project Style Transfer developed by team FishTouchers composed of
 <ul>
   <li><strong>Changhan Ge</strong>, University of California, San Diego</li>
-  <li><strong>Yifan Huang</strong>  University of California, San Diego</li>
-  <li><strong>Song Wang</strong>    University of California, San Diego</li>
+  <li><strong>Yifan Huang</strong>, University of California, San Diego</li>
+  <li><strong>Song Wang</strong>,   University of California, San Diego</li>
   <li><strong>Jingqi Huang</strong> University of California, San Diego</li>
 </ul>
 
